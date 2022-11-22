@@ -1,9 +1,9 @@
 id1,rel1,mes,rel2,id2
-marochkind,SENT,mes1,GOT,egranova
+marochkind,SENT,mes1,GOT,egranovd
 marochkind,SENT,mes2,GOT,buzinv
-egranova,SENT,mes3,GOT,marochkind
-egranova,SENT,mes4,GOT,egranova
-buzinv,SENT,mes5,GOT,egranova
+egranovd,SENT,mes3,GOT,marochkind
+egranovd,SENT,mes4,GOT,egranovd
+buzinv,SENT,mes5,GOT,egranovd
 umnovk,SENT,mes6,GOT,marochkind
 koroleva,SENT,mes7,GOT,marochkind
 popovd,SENT,mes8,GOT,marochkind
