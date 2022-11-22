@@ -1,6 +1,6 @@
 id1,rel,id2
-marochkind,FRIEND,egranova
-egranova,FRIEND,marochkind
+marochkind,FRIEND,egranovd
+egranovd,FRIEND,marochkind
 marochkind,FRIEND,buzinv
 buzinv,FRIEND,marochkind
 marochkind,FRIEND,umnovk
@@ -21,8 +21,8 @@ marochkind,FRIEND,belyakova
 belyakova,FRIEND,marochkind
 marochkind,FRIEND,andriyahina 
 andriyahina,FRIEND,marochkind
-egranova,FRIEND,buzinv 
-buzinv,FRIEND,egranova
+egranovd,FRIEND,buzinv 
+buzinv,FRIEND,egranovd
 terentyevv,FRIEND,belovat 
 belovat,FRIEND,terentyevv
 terentyevv,FRIEND,kozlovam 
